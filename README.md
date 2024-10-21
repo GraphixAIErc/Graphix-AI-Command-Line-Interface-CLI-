@@ -64,7 +64,7 @@ For those looking to contribute or simply tinker with the CLI tool, here's how t
 Clone the repository:
 
 ```bash
-git clone https://github.com/GraphixAIErc/graphix-cli.git
+git clone https://github.com/GraphixAIErc/Graphix-AI-Command-Line-Interface-CLI.git
 cd graphix-cli
 ```
 Install dependencies:
